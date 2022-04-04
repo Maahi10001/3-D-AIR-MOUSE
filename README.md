@@ -1,6 +1,6 @@
 # ACCELEROMETER_BASED_3D_AIR_MOUSE
 Accelerometer Based 3d Air Mouse
-
+# ABSTRACT
 We have seen different types of Human Interface Devices(HIDs),for example mouse and
 keyboard.In older versions of computer mouse,optical sensors were used to detect movement
 relative to a surface,thus they require smooth surface to function properly.
@@ -10,3 +10,10 @@ has the capability to work with all coordinates.In this project we are going to 
 device that will give you a whole new experience of using computers and playing online games. With
 this device,you will be able to control computers and Smart phone by just moving your hand in air.
 you can draw any design by moving your hand in the air.
+
+
+
+# DOCUMENTATION 
+Refer Project air mouse.pdf for the doumentation Purpose on how to connect and setup the device and dump the code
+
+
